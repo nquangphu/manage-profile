@@ -1,0 +1,9 @@
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/model/ProfileModel.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/service/ProfileService.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/controller/web/ProfileDetailController.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/controller/web/RegisterController.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/dao/ProfileDAO.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/utils/FormUtil.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/utils/HttpUtil.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/controller/web/LoginController.java
+/home/phu/NetBeansProjects/ManageProfileWeb/src/main/java/com/nqphu/controller/web/api/ProfileApi.java

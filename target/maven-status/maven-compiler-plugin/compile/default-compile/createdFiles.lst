@@ -1,0 +1,9 @@
+com/nqphu/controller/web/RegisterController.class
+com/nqphu/utils/HttpUtil.class
+com/nqphu/service/ProfileService.class
+com/nqphu/dao/ProfileDAO.class
+com/nqphu/controller/web/api/ProfileApi.class
+com/nqphu/controller/web/ProfileDetailController.class
+com/nqphu/utils/FormUtil.class
+com/nqphu/controller/web/LoginController.class
+com/nqphu/model/ProfileModel.class
